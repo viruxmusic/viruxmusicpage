@@ -14,3 +14,11 @@
 Route::get('/', function () {
     return view('homevirux');
 });
+
+Route::get('/presskit', function () {
+    return view('presskit');
+})->name('presskit');
+
+Route::get('/homevirux', function () {
+    return view('homevirux');
+})->name('homevirux');

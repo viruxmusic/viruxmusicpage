@@ -33,7 +33,7 @@
  </main>
 
  <!-- CARDS -->
- <section id="cursos" class="mt-4">
+ <!-- <section id="cursos" class="mt-4">
    <div class="container">
     <div class="row">
       <div class="col text-center text-uppercase">
@@ -110,7 +110,7 @@
       </div>
     </div>
    </div>
- </section>
+ </section> -->
 
  <!-- BOOKERS -->
  <section id="clase-online">
